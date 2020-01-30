@@ -1,1 +1,1 @@
-# figi
+visit figi.ng
